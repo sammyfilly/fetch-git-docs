@@ -2453,10 +2453,10 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@crowdin/crowdin-api-client@^1.23.2":
-  version "1.23.2"
-  resolved "https://registry.yarnpkg.com/@crowdin/crowdin-api-client/-/crowdin-api-client-1.23.2.tgz#e8b11999f72c46f0aa669d08e13e725d34e74332"
-  integrity sha512-pKiskHtkTyECkrqWZlgKLZe4bKx2co3XUjnbPf/PmRm1hc2EPzyo0ORpQ2DEf9gTVWVgkTMyedSwaAUwrsCEAw==
+"@crowdin/crowdin-api-client@^1.29.5":
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/@crowdin/crowdin-api-client/-/crowdin-api-client-1.30.0.tgz#014d7e20d8944155a0a3e998b88aeac8a08d562c"
+  integrity sha512-sREO1LPbOw435dJ90ENT/RyyhXCsdunBCp0aOrlwV6SIiEdAQW8tJAUNYsAbjZ6/pt1dUX0vM+4SwL4EuYvDIQ==
   dependencies:
     axios "^1"
 
